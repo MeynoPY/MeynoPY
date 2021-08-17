@@ -1,11 +1,17 @@
-https://tenor.com/view/dbz-manga-goku-gif-20132634
+🧠  Moi
+
+**J'ai 16 ans**
+**J'apprend à coder en Python.**
+
+__________________________________________________________________________________
+
+🏆  Mes Compétences
 
 
-- 👋 Hi, I’m @MeynoPY
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+🐍 J'apprends le Python depuis 6 mois 🐍
+💠 J'apprends le Développement Web, pour créer mon propre site internet 💠
+🔐 J'apprends la Cybersécurité 🔐
+
 
 <!---
 MeynoPY/MeynoPY is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
