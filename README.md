@@ -1,3 +1,6 @@
+https://tenor.com/view/dbz-manga-goku-gif-20132634
+
+
 - 👋 Hi, I’m @MeynoPY
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
